@@ -10,4 +10,4 @@
 1. Скачайте [Python](https://www.python.org/)
 2. Скачайте [Visual Studio Code](https://code.visualstudio.com/).
 3. Когда запустите Visual Studio Code, перейдите в Extensions (Дополнения) и скачайте Python.
-4. Откройте код и запустите его.
+4. Откройте код и запустите его.# Test2
